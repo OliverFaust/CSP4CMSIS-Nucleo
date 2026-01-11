@@ -48,6 +48,7 @@ Before building and running this project, make sure you have the following:
 ---
 
 ## 📁 Repository Structure
+
 ├── Core/ # Main application code
 ├── Drivers/ # STM32 HAL and CMSIS drivers
 ├── Middlewares/ # FreeRTOS middleware
