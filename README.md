@@ -50,14 +50,23 @@ Before building and running this project, make sure you have the following:
 ## 📁 Repository Structure
 
 ├── Core/ # Main application code
+
 ├── Drivers/ # STM32 HAL and CMSIS drivers
+
 ├── Middlewares/ # FreeRTOS middleware
+
 ├── lib/
+
 │ └── CSP4CMSIS/ # CSP4CMSIS library (source + headers)
+
 ├── Startup/ # Startup assembly
+
 ├── *.ioc # CubeMX configuration file
+
 ├── *.ld # Linker scripts
+
 ├── README.md # This file
+
 └── LICENSE
 
 
